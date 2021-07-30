@@ -1,3 +1,5 @@
+<img src="images/pascalkieslich_web.jpg" width="410">
+
 [Contact](mailto:pascal.kieslich@gmail.com) |
 [Google Scholar](https://scholar.google.com/citations?user=-8j5-IUAAAAJ) |
 [LinkedIn](https://www.linkedin.com/in/pascal-kieslich/) |
