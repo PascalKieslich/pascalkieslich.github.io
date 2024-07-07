@@ -43,6 +43,11 @@ Tiede, K. E., Henninger, F., & Kieslich, P. J. (2022). Revisiting the Open Sampl
 ([preregistration study 3](https://osf.io/5rfuj))
 ([data & analyses](https://osf.io/2vqnr/))
 
+Henninger, F., Shevchenko, Y., Mertens, U. K., Kieslich, P. J., & Hilbig, B. E. (2022). lab.js: A free, open, online study builder. _Behavior Research Methods, 54_, 556–573. [https://doi.org/10.3758/s13428-019-01283-5](https://doi.org/10.3758/s13428-019-01283-5)
+([PDF](https://link.springer.com/content/pdf/10.3758/s13428-019-01283-5.pdf))
+([software](https://lab.js.org/))
+([source code](https://github.com/felixhenninger/lab.js))
+
 Kieslich, P. J., Schoemann, M., Grage, T., Hepp, J., & Scherbaum, S. (2020). Design factors in mouse-tracking: What makes a difference? _Behavior Research Methods, 52_(1), 317-341.
 [https://doi.org/10.3758/s13428-019-01228-y](https://doi.org/10.3758/s13428-019-01228-y)
 ([PDF](https://link.springer.com/content/pdf/10.3758/s13428-019-01228-y.pdf))
@@ -58,7 +63,7 @@ Aczel, B., Szollosi, A., Palfi, B., Szaszi, B., & Kieslich, P. J. (2018). Is act
 [https://doi.org/10.1037/xlm0000484](https://doi.org/10.1037/xlm0000484)
 ([data & analyses](https://doi.org/10.1037/xlm0000484.supp))
 
-Heck, D. W., Erdfelder, E., & Kieslich, P. J. (2018). Generalized processing tree models: Jointly modeling discrete and continuous variables. _Psychometrika, 83_(4), 893–918.
+Heck, D. W., Erdfelder, E., & Kieslich, P. J. (2018). Generalized processing tree models: Jointly modeling discrete and continuous variables. _Psychometrika, 83_(4), 893-918.
 [https://doi.org/10.1007/s11336-018-9622-0](https://doi.org/10.1007/s11336-018-9622-0)
 ([data & analyses](https://osf.io/fyeum))
 
@@ -71,7 +76,7 @@ Bröder, A., Gräf, M., & Kieslich, P. J. (2017). Measuring the relative contrib
 )
 ([PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A716B1E97BA9F44D92D5FA3897521BA7/S1930297500006513a.pdf/measuring-the-relative-contributions-of-rule-based-and-exemplar-based-processes-in-judgment-validation-of-a-simple-model.pdf))
 ([data](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/measuring-the-relative-contributions-of-rulebased-and-exemplarbased-processes-in-judgment-validation-of-a-simple-model/A716B1E97BA9F44D92D5FA3897521BA7#supplementary-materials))
-([code & simulations](https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1930297500006513/resource/name/S1930297500006513sup004.zip))
+([simulations](https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1930297500006513/resource/name/S1930297500006513sup004.zip))
 
 Kieslich, P. J., & Henninger, F. (2017). Mousetrap: An integrated, open-source mouse-tracking package. _Behavior Research Methods, 49_(5), 1652-1667.
 [https://doi.org/10.3758/s13428-017-0900-z](https://doi.org/10.3758/s13428-017-0900-z)
