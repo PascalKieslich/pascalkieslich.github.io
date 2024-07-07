@@ -6,14 +6,16 @@
 [Xing](https://www.xing.com/profile/Pascal_Kieslich/) |
 [ORCID](http://orcid.org/0000-0002-0853-9364)
 
+I am a Senior Principal Data Scientist at the healthcare business of Merck KGaA,
+Darmstadt, Germany. Before joining Merck, I received a doctorate in Psychology and worked as a postdoctoral researcher at the University of Mannheim with a focus on methodology, process tracing, and human decision making.
 
-# Software development
-
-[readbulk](http://pascalkieslich.github.io/readbulk):
-R package for reading and combining multiple data files
+# Selected open-source software packages
 
 [mousetrap](http://pascalkieslich.github.io/mousetrap/):
 R package for processing, analyzing, clustering, and visualizing mouse-tracking data
+
+[readbulk](http://pascalkieslich.github.io/readbulk):
+R package for reading and combining multiple data files
 
 [mousetrap-os](https://github.com/pascalkieslich/mousetrap-os):
 Python package for implementing mouse-tracking in OpenSesame
@@ -26,16 +28,31 @@ Python package for real-time interactive experiments in OpenSesame
 
 # Selected publications
 
+Manitz, J., Gerhold-Ay, A., Kieslich, P., Shah, P., Mrowiec, T., & Tyroller, K. (2024). Avelumab first-line maintenance in advanced urothelial carcinoma: Complete screening for prognostic and predictive factors using machine learning in the JAVELIN Bladder 100 phase 3 trial. _Cancer Medicine, 13_(12), e7411. [https://doi.org/10.1002/cam4.7411](https://doi.org/10.1002/cam4.7411)
+([PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1002/cam4.7411))
+
+Leipold, F. M., Kieslich, P. J., Henninger, F., Fernández-Fontelo, A., Greven, S., & Kreuter, F. (2024). Detecting respondent burden in online surveys: How different sources of question difficulty influence cursor movements. _Social Science Computer Review_, 08944393241247425.
+[https://doi.org/10.1177/08944393241247425](https://doi.org/10.1177/08944393241247425)
+([PDF](https://journals.sagepub.com/doi/reader/10.1177/08944393241247425))
+([preregistration](https://osf.io/r5392))
+([data & analyses](https://osf.io/8xwt3/))
+
+Tiede, K. E., Henninger, F., & Kieslich, P. J. (2022). Revisiting the Open Sampling format: Improving risky choices through a novel graphical representation. _Psychonomic Bulletin & Review, 29_, 648-659. [https://doi.org/10.3758/s13423-021-02018-4](https://doi.org/10.3758/s13423-021-02018-4)
+([PDF](https://link.springer.com/content/pdf/10.3758/s13423-021-02018-4.pdf))
+([preregistration study 2b](https://osf.io/4x5ve))
+([preregistration study 3](https://osf.io/5rfuj))
+([data & analyses](https://osf.io/2vqnr/))
+
 Kieslich, P. J., Schoemann, M., Grage, T., Hepp, J., & Scherbaum, S. (2020). Design factors in mouse-tracking: What makes a difference? _Behavior Research Methods, 52_(1), 317-341.
 [https://doi.org/10.3758/s13428-019-01228-y](https://doi.org/10.3758/s13428-019-01228-y)
 ([PDF](https://link.springer.com/content/pdf/10.3758/s13428-019-01228-y.pdf))
-([material, data, & analyses](https://osf.io/xdp7a/))
+([data & analyses](https://osf.io/xdp7a/))
 
 Kieslich, P. J., Henninger, F., Wulff, D. U., Haslbeck, J. M. B., & Schulte-Mecklenbeck, M. (2019). Mouse-tracking: A practical guide to implementation and analysis. In M. Schulte-Mecklenbeck, A. Kühberger, & J. G. Johnson (Eds.), *A Handbook of Process Tracing Methods* (pp. 111-130). New York: Routledge.
 [https://doi.org/10.4324/9781315160559-9](https://doi.org/10.4324/9781315160559-9)
 ([preprint](https://psyarxiv.com/zuvqa/))
 ([software](http://pascalkieslich.github.io/mousetrap/))
-([analyses](https://pascalkieslich.github.io/mousetrap-resources/))
+([data & analyses](https://pascalkieslich.github.io/mousetrap-resources/))
 
 Aczel, B., Szollosi, A., Palfi, B., Szaszi, B., & Kieslich, P. J. (2018). Is action execution part of the decision-making process? An investigation of the embodied choice hypothesis. _Journal of Experimental Psychology: Learning, Memory, and Cognition, 44_(6), 918-926.
 [https://doi.org/10.1037/xlm0000484](https://doi.org/10.1037/xlm0000484)
@@ -43,7 +60,7 @@ Aczel, B., Szollosi, A., Palfi, B., Szaszi, B., & Kieslich, P. J. (2018). Is act
 
 Heck, D. W., Erdfelder, E., & Kieslich, P. J. (2018). Generalized processing tree models: Jointly modeling discrete and continuous variables. _Psychometrika, 83_(4), 893–918.
 [https://doi.org/10.1007/s11336-018-9622-0](https://doi.org/10.1007/s11336-018-9622-0)
-([software, data, & analyses](https://osf.io/fyeum))
+([data & analyses](https://osf.io/fyeum))
 
 Hepp, J., Störkel, L., Kieslich, P. J., Schmahl, C., & Niedtfeld, I. (2018). Negative evaluation of individuals with borderline personality disorder at zero acquaintance. _Behaviour Research and Therapy, 111_, 84-91.
 [https://doi.org/10.1016/j.brat.2018.09.009](https://doi.org/10.1016/j.brat.2018.09.009)
@@ -65,6 +82,6 @@ Kieslich, P. J., & Hilbig, B. E. (2014). Cognitive conflict in social dilemmas: 
 [http://journal.sjdm.org/vol9.6.html](http://journal.sjdm.org/vol9.6.html)
 ([PDF](http://journal.sjdm.org/14/14808/jdm14808.pdf))
 ([data](http://journal.sjdm.org/14/14808/data.csv))
-([analysis](http://journal.sjdm.org/14/14808/analysis.html))
+([analyses](http://journal.sjdm.org/14/14808/analysis.html))
 
 [Overview of publications (on Google Scholar)](https://scholar.google.com/citations?user=-8j5-IUAAAAJ)
