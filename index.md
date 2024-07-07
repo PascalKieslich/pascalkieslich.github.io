@@ -52,7 +52,7 @@ Kieslich, P. J., Henninger, F., Wulff, D. U., Haslbeck, J. M. B., & Schulte-Meck
 [https://doi.org/10.4324/9781315160559-9](https://doi.org/10.4324/9781315160559-9)
 ([preprint](https://psyarxiv.com/zuvqa/))
 ([software](http://pascalkieslich.github.io/mousetrap/))
-([data & analyses](https://pascalkieslich.github.io/mousetrap-resources/))
+([analyses](https://pascalkieslich.github.io/mousetrap-resources/))
 
 Aczel, B., Szollosi, A., Palfi, B., Szaszi, B., & Kieslich, P. J. (2018). Is action execution part of the decision-making process? An investigation of the embodied choice hypothesis. _Journal of Experimental Psychology: Learning, Memory, and Cognition, 44_(6), 918-926.
 [https://doi.org/10.1037/xlm0000484](https://doi.org/10.1037/xlm0000484)
@@ -79,8 +79,7 @@ Kieslich, P. J., & Henninger, F. (2017). Mousetrap: An integrated, open-source m
 ([software](https://github.com/pascalkieslich/mousetrap-os))
 ([data & analyses](https://pascalkieslich.github.io/mousetrap-resources/))
 
-Kieslich, P. J., & Hilbig, B. E. (2014). Cognitive conflict in social dilemmas: An analysis of response dynamics. _Judgment and Decision Making, 9_(6), 510-522.
-[https://doi.org/10.1017/S1930297500006392](https://doi.org/10.1017/S1930297500006392)
+Kieslich, P. J., & Hilbig, B. E. (2014). Cognitive conflict in social dilemmas: An analysis of response dynamics. _Judgment and Decision Making, 9_(6), 510-522. [https://doi.org/10.1017/S1930297500006392](https://doi.org/10.1017/S1930297500006392)
 ([PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1A4B21A6C380437E47AA56938F6F7A9C/S1930297500006392a.pdf/cognitive-conflict-in-social-dilemmas-an-analysis-of-response-dynamics.pdf))
 ([data](http://journal.sjdm.org/14/14808/data.csv))
 ([analyses](http://journal.sjdm.org/14/14808/analysis.html))
