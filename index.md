@@ -67,10 +67,11 @@ Hepp, J., Störkel, L., Kieslich, P. J., Schmahl, C., & Niedtfeld, I. (2018). Ne
 ([data](https://osf.io/tqbka/))
 
 Bröder, A., Gräf, M., & Kieslich, P. J. (2017). Measuring the relative contributions of rule-based and exemplar-based processes in judgment: Validation of a simple model. _Judgment and Decision Making, 12_(5), 491-506.
-[http://journal.sjdm.org/vol12.5.html](http://journal.sjdm.org/vol12.5.html)
-([PDF](http://journal.sjdm.org/15/15918/jdm15918.pdf))
-([data](http://journal.sjdm.org/15/15918/))
-([code & simulations](http://journal.sjdm.org/15/15918/supplement.zip))
+[https://doi.org/10.1017/S1930297500006513](https://doi.org/10.1017/S1930297500006513
+)
+([PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A716B1E97BA9F44D92D5FA3897521BA7/S1930297500006513a.pdf/measuring-the-relative-contributions-of-rule-based-and-exemplar-based-processes-in-judgment-validation-of-a-simple-model.pdf))
+([data](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/measuring-the-relative-contributions-of-rulebased-and-exemplarbased-processes-in-judgment-validation-of-a-simple-model/A716B1E97BA9F44D92D5FA3897521BA7#supplementary-materials))
+([code & simulations](https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1930297500006513/resource/name/S1930297500006513sup004.zip))
 
 Kieslich, P. J., & Henninger, F. (2017). Mousetrap: An integrated, open-source mouse-tracking package. _Behavior Research Methods, 49_(5), 1652-1667.
 [https://doi.org/10.3758/s13428-017-0900-z](https://doi.org/10.3758/s13428-017-0900-z)
@@ -79,8 +80,8 @@ Kieslich, P. J., & Henninger, F. (2017). Mousetrap: An integrated, open-source m
 ([data & analyses](https://pascalkieslich.github.io/mousetrap-resources/))
 
 Kieslich, P. J., & Hilbig, B. E. (2014). Cognitive conflict in social dilemmas: An analysis of response dynamics. _Judgment and Decision Making, 9_(6), 510-522.
-[http://journal.sjdm.org/vol9.6.html](http://journal.sjdm.org/vol9.6.html)
-([PDF](http://journal.sjdm.org/14/14808/jdm14808.pdf))
+[https://doi.org/10.1017/S1930297500006392](https://doi.org/10.1017/S1930297500006392)
+([PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1A4B21A6C380437E47AA56938F6F7A9C/S1930297500006392a.pdf/cognitive-conflict-in-social-dilemmas-an-analysis-of-response-dynamics.pdf))
 ([data](http://journal.sjdm.org/14/14808/data.csv))
 ([analyses](http://journal.sjdm.org/14/14808/analysis.html))
 
