@@ -6,8 +6,7 @@
 [Xing](https://www.xing.com/profile/Pascal_Kieslich/) |
 [ORCID](http://orcid.org/0000-0002-0853-9364)
 
-I am a Senior Principal Data Scientist at the healthcare business of Merck KGaA,
-Darmstadt, Germany. Before joining Merck, I received a doctorate in Psychology and worked as a postdoctoral researcher at the University of Mannheim with a focus on methodology, process tracing, and human decision making.
+I am an Associate Director Data Scientist at the healthcare business of Merck KGaA, Darmstadt, Germany. Before joining Merck, I received a doctorate in Psychology and worked as a postdoctoral researcher at the University of Mannheim with a focus on methodology, process tracing, and human decision making.
 
 # Selected open-source software packages
 
