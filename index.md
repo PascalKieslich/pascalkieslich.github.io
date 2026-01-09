@@ -27,6 +27,12 @@ Python package for real-time interactive experiments in OpenSesame
 
 # Selected publications
 
+Wulff, D. U.[\*](https://doi.org/10.3758/s13428-025-02695-2 "equal contribution"), Kieslich, P. J.[\*](https://doi.org/10.3758/s13428-025-02695-2 "equal contribution"), Henninger, F., Haslbeck, J. M. B., & Schulte-Mecklenbeck, M. (2025). Movement tracking of psychological processes: A tutorial using mousetrap. _Behavior Research Methods, 57_, 307.
+[https://doi.org/10.3758/s13428-025-02695-2](https://doi.org/10.3758/s13428-025-02695-2)
+([PDF](https://link.springer.com/content/pdf/10.3758/s13428-025-02695-2.pdf))
+([software](http://pascalkieslich.github.io/mousetrap/))
+([analyses](https://pascalkieslich.github.io/mousetrap-resources/))
+
 Manitz, J., Gerhold-Ay, A., Kieslich, P., Shah, P., Mrowiec, T., & Tyroller, K. (2024). Avelumab first-line maintenance in advanced urothelial carcinoma: Complete screening for prognostic and predictive factors using machine learning in the JAVELIN Bladder 100 phase 3 trial. _Cancer Medicine, 13_(12), e7411. [https://doi.org/10.1002/cam4.7411](https://doi.org/10.1002/cam4.7411)
 ([PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1002/cam4.7411))
 
