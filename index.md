@@ -91,7 +91,6 @@ Kieslich, P. J., & Henninger, F. (2017). Mousetrap: An integrated, open-source m
 
 Kieslich, P. J., & Hilbig, B. E. (2014). Cognitive conflict in social dilemmas: An analysis of response dynamics. _Judgment and Decision Making, 9_(6), 510-522. [https://doi.org/10.1017/S1930297500006392](https://doi.org/10.1017/S1930297500006392)
 ([PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1A4B21A6C380437E47AA56938F6F7A9C/S1930297500006392a.pdf/cognitive-conflict-in-social-dilemmas-an-analysis-of-response-dynamics.pdf))
-([data](http://journal.sjdm.org/14/14808/data.csv))
-([analyses](http://journal.sjdm.org/14/14808/analysis.html))
+([data](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/cognitive-conflict-in-social-dilemmas-an-analysis-of-response-dynamics/1A4B21A6C380437E47AA56938F6F7A9C#supplementary-materials))
 
 [Overview of publications (on Google Scholar)](https://scholar.google.com/citations?user=-8j5-IUAAAAJ)
